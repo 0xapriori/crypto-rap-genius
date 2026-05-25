@@ -1,0 +1,273 @@
+{
+  "description": "Verified cryptocurrency references in rap/hip-hop lyrics (2009-present). Each entry's lyric was confirmed verbatim against a fetchable source listed in `source`. Genius links point to a Genius search query (direct page slugs could not be programmatically validated). YouTube links were gathered from search results.",
+  "last_updated": "2026-05-25",
+  "verified": [
+    {
+      "artist": "YTCracker",
+      "song": "Bitcoin Baron",
+      "year": 2013,
+      "tags": ["bitcoin", "blockchain", "Mt. Gox"],
+      "excerpt": "You know rappers like to rock chains / I rock blockchains, knock 'em out the box off Mount Gox, mang [...] I'm a bitcoin baron, I'm scaring the status quo / Got that crypto dough in that .dat file to blow",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=fZfg1Gtcg08",
+      "source": "https://news.bitcoin.com/coindaddy-another-crypto-rapper-rhymes-about-bitcoin-life/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Action Bronson",
+      "song": "Knicks (Remix) [Freddie Gibbs & Madlib]",
+      "year": 2014,
+      "tags": ["bitcoin"],
+      "excerpt": "I'm not the one for all the small talk / I'm like Christopher Lloyd, Big Noyd / Bitcoins, rosemary on the strip loin / Mike Tyson doin' endos on a Haro",
+      "partial": false,
+      "youtube": "https://www.youtube.com/watch?v=xdcBfj_EBuU",
+      "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Eminem (Royce da 5'9\")",
+      "song": "Not Alike",
+      "year": 2018,
+      "tags": ["bitcoin"],
+      "excerpt": "'Member everybody used to bite Nickel? / Now everybody doin' Bitcoin",
+      "partial": true,
+      "note": "Line is rapped by featured artist Royce da 5'9\", on Eminem's album Kamikaze.",
+      "youtube": "https://www.youtube.com/watch?v=U_zXqSEAcxI",
+      "source": "https://www.coindesk.com/markets/2018/08/31/eminems-latest-album-kamikaze-features-a-bitcoin-shout-out",
+      "confidence": "High"
+    },
+    {
+      "artist": "Soulja Boy",
+      "song": "Bitcoin",
+      "year": 2018,
+      "tags": ["bitcoin", "litecoin"],
+      "excerpt": "I made 100 racks off of bitcoin / You can catch me trappin' with the bitcoin / You can catch me runnin' up the bitcoin / I spent 6,000 on the bitcoin",
+      "partial": false,
+      "youtube": "https://www.youtube.com/watch?v=j2ZgmCqWfOw",
+      "source": "https://www.coindesk.com/markets/2018/10/05/rapper-soulja-boy-brags-about-bitcoin-gains-in-new-rap-track",
+      "confidence": "High"
+    },
+    {
+      "artist": "Big Sean (on YG's \"Big Bank\")",
+      "song": "Big Bank",
+      "year": 2018,
+      "tags": ["crypto"],
+      "excerpt": "I might buy her red bottoms with the crypto / Three coins, that'll pay ya whole semester / But you gotta ride it better than a Tesla",
+      "partial": true,
+      "note": "Crypto bar belongs to Big Sean's verse, not 2 Chainz's.",
+      "youtube": "https://www.youtube.com/watch?v=NNkEmouO_GI",
+      "source": "https://www.billboard.com/music/lyrics/yg-big-bank-2-chainz-big-sean-nicki-8464304/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Mick Jenkins",
+      "song": "Gwendolynn's Apprehension",
+      "year": 2018,
+      "tags": ["bitcoin", "blockchain"],
+      "excerpt": "Quit that, got a better chance with Bitcoin / Big banks see you stuntin' and this shit's deep / Crypt keep and now you're fuckin' with the blockchain",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=wMXt0ku0C8g",
+      "source": "https://steemit.com/bitcoin/@creativecrypto/mickjenkinsbitcoinblockchainlyrics-j5hm1spy4r",
+      "confidence": "High"
+    },
+    {
+      "artist": "Coindaddy",
+      "song": "Holding the Bag",
+      "year": 2018,
+      "tags": ["bitcoin", "hodl"],
+      "excerpt": "If you want the ride and you want the riches then just buy more coin and get the bitches / 'Cause bitcoin 'bout to go straight through the roof, it's got the PBOC shakin' in their boots",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=Gj5zBD0PISU",
+      "source": "https://news.bitcoin.com/coindaddy-another-crypto-rapper-rhymes-about-bitcoin-life/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Lil Windex",
+      "song": "Bitcoin Ca$h",
+      "year": 2018,
+      "tags": ["bitcoin", "Bitcoin Cash", "Satoshi"],
+      "excerpt": "The miners make money by takin' a fee every time a transaction is made and complete / And they work every minute and day of the week / A guy named Satoshi created this all / He's the mastermind of it",
+      "partial": true,
+      "note": "Assembled from two cited passages; lines may not be contiguous.",
+      "youtube": "https://www.youtube.com/watch?v=JFHTLe4LUeQ",
+      "source": "https://slate.com/technology/2018/03/rapper-lil-windex-bitcoin-cash-music-video.html",
+      "confidence": "Medium"
+    },
+    {
+      "artist": "Nas (on DJ Khaled's \"Sorry Not Sorry\")",
+      "song": "Sorry Not Sorry",
+      "year": 2021,
+      "tags": ["cryptocurrency", "Coinbase"],
+      "excerpt": "Winner in life, fuck a coin toss / I'm Coinbased, basically cryptocurrency Scarface",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=mON6_EQfQFI",
+      "source": "https://news.bitcoin.com/hip-hop-star-nas-calls-himself-cryptocurrency-scarface-mentions-coinbase-investment-in-new-video/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Money Man",
+      "song": "Blockchain",
+      "year": 2021,
+      "tags": ["blockchain", "Coinbase", "Zcash"],
+      "excerpt": "Fuckin' with the Coinbase Pro, got Zcash / Fuckin' with the Robinhood out, got a free bag / And I'm on the blockchain, burnin' on blockchain / Damn, this shit some octane",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=KQ7rn3oi-Pc",
+      "source": "https://www.complex.com/music/a/mack/money-man-blockchain-album",
+      "confidence": "High"
+    },
+    {
+      "artist": "Dave",
+      "song": "Mercury (feat. Kamal.)",
+      "year": 2021,
+      "tags": ["crypto"],
+      "excerpt": "All this crypto in the world, you could get rich in a day / So I don't get why you're invested in the women I date",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=c3SW24o43VY",
+      "source": "https://www.capitalxtra.com/features/dave-mercury-lyrics-meaning-explained/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Big Sean (on Sada Baby's \"Little While\")",
+      "song": "Little While",
+      "year": 2021,
+      "tags": ["dogecoin"],
+      "excerpt": "Gave your girl a Robinhood portfolio / Thirty K in Doge",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=0J_3sy8pmM8",
+      "source": "https://earmilk.com/2021/05/19/sada-baby-big-sean-and-hit-boy-provide-fiery-energy-on-little-while/",
+      "confidence": "Medium"
+    },
+    {
+      "artist": "Central Cee",
+      "song": "Crypto Price",
+      "year": 2022,
+      "tags": ["crypto"],
+      "excerpt": "But I'm in two minds, it goes up and down like the crypto price / Short and sweet, when I doggy that one, she gotta go on her tiptoes",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=hY7EfulUj9A",
+      "source": "https://readdork.com/lyrics/central-cee-crypto-price",
+      "confidence": "High"
+    },
+    {
+      "artist": "Benny the Butcher",
+      "song": "Credit",
+      "year": 2022,
+      "tags": ["crypto"],
+      "excerpt": "My little crypto investment was probably triple your necklace",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=NFolDA1O_is",
+      "source": "https://lyrics.az/b-e-n-n-y-the-butcher-benny-the-butcher/tana-talk-4/credit.html",
+      "confidence": "Medium"
+    },
+    {
+      "artist": "Lil Yachty (on Rio Leyva's \"Bitcoin\")",
+      "song": "Bitcoin",
+      "year": 2022,
+      "tags": ["bitcoin"],
+      "excerpt": "Lost a couple million on Bitcoin, don't feel bad / Don't feel bad for me, I'm rich, I'm straight, I'm good, I'm always set",
+      "partial": true,
+      "note": "No official YouTube video found; SoundCloud is the canonical upload.",
+      "youtube": "https://soundcloud.com/rioleyva/lil-yachty-bitcoin-prod-rio",
+      "source": "https://readdork.com/lyrics/",
+      "confidence": "Medium"
+    },
+    {
+      "artist": "Tom MacDonald (feat. John Rich)",
+      "song": "End of the World",
+      "year": 2023,
+      "tags": ["cryptocurrency"],
+      "excerpt": "They told us \"Chase a dollar,\" then made everyone broke / I feel like cryptocurrency is probably our last financial hope / Soon enough, the government will leave your bank account froze / Judgment Day is comin', you can run or you can stand and fight",
+      "partial": false,
+      "youtube": "https://www.youtube.com/watch?v=Vk8J9l2HVvg",
+      "source": "https://genius.com/Tom-macdonald-end-of-the-world-lyrics",
+      "confidence": "High"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "song": "wacced out murals",
+      "year": 2024,
+      "tags": ["bitcoin"],
+      "excerpt": "People from my city could never entertain ol' boy / Promising big transaction and even Bitcoin / I'll never peace it up",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=YwUQ_5iV9pY",
+      "source": "https://www.fox5ny.com/news/decoding-kendrick-lamars-gnx-wacced-out-murals-diddy-jay-z-bitcoin",
+      "confidence": "High"
+    },
+    {
+      "artist": "Snoop Dogg",
+      "song": "Gifts",
+      "year": 2025,
+      "tags": ["blockchain", "TON"],
+      "excerpt": "All I hear is gifts, gifts, gifts, digital collectibles / What? Blockchain? [...] Shout out to TON / Telegram",
+      "partial": true,
+      "note": "Lines are non-consecutive; \"TON\" refers to the Toncoin / TON blockchain.",
+      "youtube": "https://www.youtube.com/watch?v=sknGyx2vRg4",
+      "source": "https://www.lyricsbull.com/gifts-lyrics-snoop-dogg/",
+      "confidence": "Medium"
+    },
+    {
+      "artist": "Drake",
+      "song": "What Did I Miss?",
+      "year": 2025,
+      "tags": ["BTC"],
+      "excerpt": "What's the get-back for niggas? It's TBD / I look at this shit like a BTC / Could be down this week, then I'm up next week",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=nKhb7JHpEQw",
+      "source": "https://neonmusic.co.uk/drake-what-did-i-miss-lyrics-meaning-a-cold-shoulder-wrapped-in-a-crown",
+      "confidence": "High"
+    },
+    {
+      "artist": "Drake",
+      "song": "Dust",
+      "year": 2026,
+      "tags": ["BTC", "crypto"],
+      "excerpt": "Ayy, I am, I am, I am / A BTC, crypto big timer / A corporate America hit survivor / Got a real big heart, I'm a fucked up guy though",
+      "partial": false,
+      "note": "From the album Iceman; the verse also nods to FTX / Sam Bankman-Fried.",
+      "youtube": "https://www.youtube.com/watch?v=0DwEBemyJm0",
+      "source": "https://www.cryptotimes.io/2026/05/15/drake-mentions-bitcoin-ftx-sam-bankman-fried-on-dust-from-new-album-iceman/",
+      "confidence": "High"
+    },
+    {
+      "artist": "Baby Keem",
+      "song": "Ca$ino",
+      "year": 2026,
+      "tags": ["solana"],
+      "excerpt": "Shawty a wifey, we hike up the hills / She got a man, so I hold like Solana",
+      "partial": true,
+      "note": "\"Hold\" doubles as HODL; title track of the 2026 album Ca$ino.",
+      "youtube": "https://www.youtube.com/watch?v=osdQCYqZHkY",
+      "source": "https://lyricalglobe.com/lyrics/ca-ino-lyrics-baby-keem-ca-ino",
+      "confidence": "High"
+    }
+  ],
+  "reported_unverified": [
+    {
+      "artist": "Rick Ross",
+      "song": "Maybach Music VI",
+      "year": 2017,
+      "tags": ["crypto"],
+      "excerpt": "Currency come in crypto, you know they tapin' our calls",
+      "reason": "Quoted only in a single secondary source (Vice); exact line/version not independently re-verified.",
+      "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/"
+    },
+    {
+      "artist": "G-Eazy",
+      "song": "Down",
+      "year": 2017,
+      "tags": ["crypto"],
+      "excerpt": "loyal bitches get crypto",
+      "reason": "Single secondary source (Vice); could not pin the exact track version or a clean audio link.",
+      "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/"
+    },
+    {
+      "artist": "billy woods (on Blockhead's \"AAU Tournaments\")",
+      "song": "AAU Tournaments",
+      "year": 2023,
+      "tags": ["crypto?"],
+      "excerpt": "",
+      "reason": "Reader-suggested. Track is on Blockhead's album The Aux (2023), not Maps. No verbatim crypto line could be confirmed from any fetchable source.",
+      "source": ""
+    }
+  ]
+}
