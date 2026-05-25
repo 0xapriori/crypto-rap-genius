@@ -17,7 +17,7 @@ A few honesty notes:
 
 ## The catalog
 
-*Sorted chronologically — earliest first. 21 verified references across 13+ years.*
+*Sorted chronologically — earliest first. 22 verified references across 13+ years.*
 
 | Artist | Song | Year | Coin(s) | ~4-bar excerpt | Genius | YouTube | Conf. |
 |---|---|---|---|---|---|---|---|
@@ -37,6 +37,7 @@ A few honesty notes:
 | **Benny the Butcher** | Credit | 2022 | crypto | My little crypto investment was probably triple your necklace *(partial)* | [🔍](https://genius.com/search?q=Benny%20the%20Butcher%20Credit) | [▶](https://www.youtube.com/watch?v=NFolDA1O_is) | Med |
 | **Lil Yachty** *(on Rio Leyva's "Bitcoin")* | Bitcoin | 2022 | bitcoin | Lost a couple million on Bitcoin, don't feel bad<br>Don't feel bad for me, I'm rich, I'm straight, I'm good, I'm always set *(partial)* | [🔍](https://genius.com/search?q=Rio%20Leyva%20Bitcoin%20Lil%20Yachty) | [▶](https://soundcloud.com/rioleyva/lil-yachty-bitcoin-prod-rio) | Med |
 | **Tom MacDonald** *(feat. John Rich)* | End of the World | 2023 | cryptocurrency | They told us "Chase a dollar," then made everyone broke<br>I feel like cryptocurrency is probably our last financial hope<br>Soon enough, the government will leave your bank account froze<br>Judgment Day is comin', you can run or you can stand and fight | [🔍](https://genius.com/search?q=Tom%20MacDonald%20End%20of%20the%20World) | [▶](https://www.youtube.com/watch?v=Vk8J9l2HVvg) | High |
+| **billy woods** *(on Blockhead's "AAU Tournaments")* | AAU Tournaments | 2023 | crypto · IP | For every Jack Harlow, it's a white boy who didn't make it<br>And works in crypto and intellectual property<br>You can't copy me *(partial)* | [🔍](https://genius.com/search?q=Blockhead%20AAU%20Tournaments%20billy%20woods) | [▶](https://blockheadnyc.bandcamp.com/track/aau-tournaments-ft-billy-woods-navy-blue) | Med |
 | **Kendrick Lamar** | wacced out murals | 2024 | bitcoin | People from my city could never entertain ol' boy<br>Promising big transaction and even Bitcoin<br>I'll never peace it up *(partial)* | [🔍](https://genius.com/search?q=Kendrick%20Lamar%20wacced%20out%20murals) | [▶](https://www.youtube.com/watch?v=YwUQ_5iV9pY) | High |
 | **Snoop Dogg** | Gifts | 2025 | blockchain · TON | All I hear is gifts, gifts, gifts, digital collectibles<br>What? Blockchain?<br>[…]<br>Shout out to TON / Telegram *(partial, non-consecutive)* | [🔍](https://genius.com/search?q=Snoop%20Dogg%20Gifts) | [▶](https://www.youtube.com/watch?v=sknGyx2vRg4) | Med |
 | **Drake** | What Did I Miss? | 2025 | BTC | What's the get-back for niggas? It's TBD<br>I look at this shit like a BTC<br>Could be down this week, then I'm up next week *(partial)* | [🔍](https://genius.com/search?q=Drake%20What%20Did%20I%20Miss) | [▶](https://www.youtube.com/watch?v=nKhb7JHpEQw) | High |
@@ -48,7 +49,7 @@ A few honesty notes:
 | Coin / term | Count | Artists |
 |---|---|---|
 | Bitcoin / BTC | 11 | YTCracker, Action Bronson, Eminem (Royce), Soulja Boy, Mick Jenkins, Coindaddy, Lil Windex, Lil Yachty, Kendrick Lamar, Drake (×2) |
-| "crypto" / cryptocurrency | 7 | Big Sean, Nas, Dave, Central Cee, Benny the Butcher, Tom MacDonald, Drake |
+| "crypto" / cryptocurrency | 8 | Big Sean, Nas, Dave, Central Cee, Benny the Butcher, Tom MacDonald, billy woods, Drake |
 | Blockchain | 4 | YTCracker, Mick Jenkins, Money Man, Snoop Dogg |
 | Dogecoin | 1 | Big Sean (on "Little While") |
 | **Solana** | 1 | Baby Keem |
@@ -64,7 +65,6 @@ Listed for transparency — these surfaced during research but **failed the veri
 |---|---|---|---|---|
 | Rick Ross | Maybach Music VI | 2017 | "Currency come in crypto…" | Only quoted in one secondary source (Vice); line/version not re-verified. |
 | G-Eazy | Down | 2017 | "loyal bitches get crypto" | Single source (Vice); couldn't pin the exact track version or audio. |
-| billy woods | AAU Tournaments *(Blockhead, The Aux)* | 2023 | suspected crypto bar | Reader-suggested; no verbatim crypto line could be sourced. |
 
 ## Notable crypto people who *don't* rap about it (on record)
 

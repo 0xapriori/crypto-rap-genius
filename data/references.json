@@ -183,6 +183,18 @@
       "confidence": "High"
     },
     {
+      "artist": "billy woods (on Blockhead's \"AAU Tournaments\")",
+      "song": "AAU Tournaments",
+      "year": 2023,
+      "tags": ["crypto", "intellectual property"],
+      "excerpt": "For every Jack Harlow, it's a white boy who didn't make it / And works in crypto and intellectual property / You can't copy me",
+      "partial": true,
+      "note": "Listener-transcribed (contributor-provided); billy woods lyrics are hosted on Genius, which is unfetchable here, so awaiting an independent lyric-page confirmation. Track is the opener on Blockhead's The Aux (Backwoodz Studioz).",
+      "youtube": "https://blockheadnyc.bandcamp.com/track/aau-tournaments-ft-billy-woods-navy-blue",
+      "source": "contributor-provided (repo owner); track audio: https://blockheadnyc.bandcamp.com/track/aau-tournaments-ft-billy-woods-navy-blue",
+      "confidence": "Medium"
+    },
+    {
       "artist": "Kendrick Lamar",
       "song": "wacced out murals",
       "year": 2024,
@@ -259,15 +271,6 @@
       "excerpt": "loyal bitches get crypto",
       "reason": "Single secondary source (Vice); could not pin the exact track version or a clean audio link.",
       "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/"
-    },
-    {
-      "artist": "billy woods (on Blockhead's \"AAU Tournaments\")",
-      "song": "AAU Tournaments",
-      "year": 2023,
-      "tags": ["crypto?"],
-      "excerpt": "",
-      "reason": "Reader-suggested. Track is on Blockhead's album The Aux (2023), not Maps. No verbatim crypto line could be confirmed from any fetchable source.",
-      "source": ""
     }
   ]
 }
