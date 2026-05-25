@@ -1,5 +1,5 @@
 {
-  "description": "Verified cryptocurrency references in rap/hip-hop lyrics (2009-present). Each entry's lyric was confirmed verbatim against a fetchable source listed in `source`. Genius links point to a Genius search query (direct page slugs could not be programmatically validated). YouTube links were gathered from search results.",
+  "description": "Verified cryptocurrency references in rap/hip-hop lyrics (2009-present). Each entry's lyric was confirmed verbatim against a fetchable source listed in `source`. Genius links in the README point to a Genius search query (direct page slugs could not be programmatically validated). YouTube links were gathered from search results.",
   "last_updated": "2026-05-25",
   "verified": [
     {
@@ -23,6 +23,18 @@
       "youtube": "https://www.youtube.com/watch?v=xdcBfj_EBuU",
       "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/",
       "confidence": "High"
+    },
+    {
+      "artist": "Gramatik (ft. ProbCause & Adrian Lau)",
+      "song": "Satoshi Nakamoto",
+      "year": 2016,
+      "tags": ["bitcoin", "Satoshi"],
+      "excerpt": "Stack a couple bit coins / All up on my Nakamoto / Chillin' with your lady friend / She rockin' an untied kimono",
+      "partial": false,
+      "note": "Producer/electronic track with a rapped verse (ProbCause). Included for the rare Satoshi Nakamoto name-drop.",
+      "youtube": "https://www.youtube.com/watch?v=HAwC0swp96I",
+      "source": "https://bitcointalk.org/index.php?topic=1413879.0",
+      "confidence": "Medium"
     },
     {
       "artist": "Eminem (Royce da 5'9\")",
@@ -52,8 +64,8 @@
       "song": "Big Bank",
       "year": 2018,
       "tags": ["crypto"],
-      "excerpt": "I might buy her red bottoms with the crypto / Three coins, that'll pay ya whole semester / But you gotta ride it better than a Tesla",
-      "partial": true,
+      "excerpt": "I turn my Ws to Ms, yeah I flip those / I might buy her red bottoms with the crypto / Three coins, that'll pay ya whole semester / But you gotta ride it better than a Tesla",
+      "partial": false,
       "note": "Crypto bar belongs to Big Sean's verse, not 2 Chainz's.",
       "youtube": "https://www.youtube.com/watch?v=NNkEmouO_GI",
       "source": "https://www.billboard.com/music/lyrics/yg-big-bank-2-chainz-big-sean-nicki-8464304/",
@@ -94,6 +106,17 @@
       "confidence": "Medium"
     },
     {
+      "artist": "Rick Ross (feat. John Legend & Lil Wayne)",
+      "song": "Maybach Music VI",
+      "year": 2019,
+      "tags": ["crypto"],
+      "excerpt": "Money overboard, kilos washin' ashore / Paintings on the wall, Versace down to the drawers / Currency come in crypto, you know they tapin' our calls",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=J0EEHE79EtA",
+      "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/",
+      "confidence": "High"
+    },
+    {
       "artist": "Nas (on DJ Khaled's \"Sorry Not Sorry\")",
       "song": "Sorry Not Sorry",
       "year": 2021,
@@ -131,11 +154,22 @@
       "song": "Little While",
       "year": 2021,
       "tags": ["dogecoin"],
-      "excerpt": "Gave your girl a Robinhood portfolio / Thirty K in Doge",
+      "excerpt": "Gave your girl a Robinhood portfolio / Thirty K in Doge, yeah, go indulge",
       "partial": true,
       "youtube": "https://www.youtube.com/watch?v=0J_3sy8pmM8",
       "source": "https://earmilk.com/2021/05/19/sada-baby-big-sean-and-hit-boy-provide-fiery-energy-on-little-while/",
-      "confidence": "Medium"
+      "confidence": "High"
+    },
+    {
+      "artist": "Mach-Hommy",
+      "song": "Makrel Jaxon",
+      "year": 2021,
+      "tags": ["crypto"],
+      "excerpt": "Next tape might hear me sliding on flamenco / Or calypso, maybe you should tip-toe / Let a clip go / Flip you like crypto",
+      "partial": false,
+      "youtube": "https://www.youtube.com/watch?v=gsKXFQ0_g9k",
+      "source": "https://www.analyticsinsight.net/uncategorized/mach-hommy-flip-you-like-crypto-three-cryptocurrencies-to-look-at-flipping-bitcoin-ethereum-and-big-eyes",
+      "confidence": "High"
     },
     {
       "artist": "Central Cee",
@@ -150,14 +184,15 @@
     },
     {
       "artist": "Benny the Butcher",
-      "song": "Credit",
+      "song": "Bust A Brick Nick",
       "year": 2022,
       "tags": ["crypto"],
-      "excerpt": "My little crypto investment was probably triple your necklace",
+      "excerpt": "Before we talk paper, let's make a simple assessment / My little crypto investment was probably triple your necklace",
       "partial": true,
-      "youtube": "https://www.youtube.com/watch?v=NFolDA1O_is",
-      "source": "https://lyrics.az/b-e-n-n-y-the-butcher-benny-the-butcher/tana-talk-4/credit.html",
-      "confidence": "Medium"
+      "note": "On Tana Talk 4 (2022).",
+      "youtube": "https://www.youtube.com/watch?v=E8AHdd_YtRg",
+      "source": "https://noblelyrics.music.blog/2022/03/12/benny-the-butcher-bust-a-brick-nick-lyrics/",
+      "confidence": "High"
     },
     {
       "artist": "Lil Yachty (on Rio Leyva's \"Bitcoin\")",
@@ -170,6 +205,29 @@
       "youtube": "https://soundcloud.com/rioleyva/lil-yachty-bitcoin-prod-rio",
       "source": "https://readdork.com/lyrics/",
       "confidence": "Medium"
+    },
+    {
+      "artist": "Takeoff (feat. Rich The Kid)",
+      "song": "Crypto",
+      "year": 2022,
+      "tags": ["crypto"],
+      "excerpt": "She want the info / I wanna talk about crypto / I'm tryna leave that boy bloody / Like Bron when he threw the elbow",
+      "partial": false,
+      "note": "\"Crypto\" here doubles as street slang; included as the song is built around the word.",
+      "youtube": "https://www.youtube.com/watch?v=EPQJHNXdJfM",
+      "source": "https://beats-rhymes-lists.com/lyrics/meaning-of-crypto-by-takeoff-feat-rich-the-kid/",
+      "confidence": "Medium"
+    },
+    {
+      "artist": "Latto (feat. 21 Savage)",
+      "song": "Wheelie",
+      "year": 2022,
+      "tags": ["crypto"],
+      "excerpt": "Pay the rent and the car note, he invest in me like crypto",
+      "partial": true,
+      "youtube": "https://www.youtube.com/watch?v=ZM_ThhRXZ9k",
+      "source": "https://readdork.com/lyrics/latto-wheelie-2022",
+      "confidence": "High"
     },
     {
       "artist": "Tom MacDonald (feat. John Rich)",
@@ -229,6 +287,18 @@
       "confidence": "High"
     },
     {
+      "artist": "Nas & DJ Premier",
+      "song": "GiT Ready",
+      "year": 2025,
+      "tags": ["ethereum", "crypto", "blockchain"],
+      "excerpt": "Turn Ether to Etherium, y'all wanna bet? / I got a crypto key, it come with a password / Then I flipped that key to digital cash, word / [...] I'm from the block with a chain, this the new blockchain",
+      "partial": true,
+      "note": "From the album Light-Years (Dec 2025). The only verified standalone Ethereum reference in the catalog.",
+      "youtube": "https://www.youtube.com/watch?v=oQC97J_20d4",
+      "source": "https://www.thehypefactor.com/nas-dj-premier-git-ready/",
+      "confidence": "High"
+    },
+    {
       "artist": "Drake",
       "song": "Dust",
       "year": 2026,
@@ -255,22 +325,31 @@
   ],
   "reported_unverified": [
     {
-      "artist": "Rick Ross",
-      "song": "Maybach Music VI",
-      "year": 2017,
-      "tags": ["crypto"],
-      "excerpt": "Currency come in crypto, you know they tapin' our calls",
-      "reason": "Quoted only in a single secondary source (Vice); exact line/version not independently re-verified.",
-      "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/"
-    },
-    {
       "artist": "G-Eazy",
       "song": "Down",
       "year": 2017,
       "tags": ["crypto"],
       "excerpt": "loyal bitches get crypto",
-      "reason": "Single secondary source (Vice); could not pin the exact track version or a clean audio link.",
+      "reason": "Quoted only in a single secondary source (Vice); couldn't pin the exact track version or a clean audio link.",
       "source": "https://www.vice.com/en/article/theres-a-crypto-bubble-in-hip-hop/"
+    },
+    {
+      "artist": "Mach-Hommy",
+      "song": "Blockchain",
+      "year": 2021,
+      "tags": ["blockchain?"],
+      "excerpt": "",
+      "reason": "Crypto-relevant title on Pray For Haiti, but no verbatim crypto-containing line could be sourced. Strong candidate for a manual listen.",
+      "source": ""
+    },
+    {
+      "artist": "Juicy J",
+      "song": "Coinbase",
+      "year": 2022,
+      "tags": ["Coinbase?"],
+      "excerpt": "",
+      "reason": "On the Crypto Business mixtape; no verbatim lyric could be sourced.",
+      "source": ""
     }
   ]
 }
