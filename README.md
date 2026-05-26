@@ -4,7 +4,7 @@
 
 ### Every time rap put cryptocurrency in a verse — sourced, dated, and linked.
 
-![Verified references](https://img.shields.io/badge/verified%20references-28-1f6feb?style=for-the-badge)
+![Verified references](https://img.shields.io/badge/verified%20references-27-1f6feb?style=for-the-badge)
 ![Era](https://img.shields.io/badge/era-2013–2026-8957e5?style=for-the-badge)
 ![Every bar sourced](https://img.shields.io/badge/every%20bar-sourced-2da44e?style=for-the-badge)
 
@@ -25,7 +25,7 @@ The rule: **if a lyric is in this repo, its exact wording was confirmed against 
 
 ## Contents
 
-- [📜 The catalog](#-the-catalog) · the full table, 28 entries, oldest → newest
+- [📜 The catalog](#-the-catalog) · the full table, 27 entries, oldest → newest
 - [✨ Highlights](#-highlights) · the firsts and the rare ones
 - [🪙 By coin](#-by-coin)
 - [🚧 Reported but not verified](#-reported-but-not-verified)
@@ -64,27 +64,26 @@ The rule: **if a lyric is in this repo, its exact wording was confirmed against 
 | 12 | **Money Man** | Blockchain | 2021 | ⛓ | Fuckin' with the Coinbase Pro, got Zcash<br>Fuckin' with the Robinhood out, got a free bag<br>And I'm on the blockchain, burnin' on blockchain<br>Damn, this shit some octane *(partial)* | [🔍](https://genius.com/search?q=Money%20Man%20Blockchain) | [▶](https://www.youtube.com/watch?v=KQ7rn3oi-Pc) | H |
 | 13 | **Dave** | Mercury *(feat. Kamal.)* | 2021 | 🪙 | All this crypto in the world, you could get rich in a day<br>So I don't get why you're invested in the women I date *(partial)* | [🔍](https://genius.com/search?q=Dave%20Mercury%20Kamal) | [▶](https://www.youtube.com/watch?v=c3SW24o43VY) | H |
 | 14 | **Big Sean** *(on Sada Baby's "Little While")* | Little While | 2021 | Ð | Gave your girl a Robinhood portfolio<br>Thirty K in Doge, yeah, go indulge *(partial)* | [🔍](https://genius.com/search?q=Sada%20Baby%20Little%20While) | [▶](https://www.youtube.com/watch?v=0J_3sy8pmM8) | H |
-| 15 | **Mach-Hommy** | Makrel Jaxon | 2021 | 🪙 | Next tape might hear me sliding on flamenco<br>Or calypso, maybe you should tip-toe<br>Let a clip go<br>Flip you like crypto | [🔍](https://genius.com/search?q=Mach-Hommy%20Makrel%20Jaxon) | [▶](https://www.youtube.com/watch?v=gsKXFQ0_g9k) | H |
-| 16 | **Central Cee** | Crypto Price | 2022 | 🪙 | But I'm in two minds, it goes up and down like the crypto price<br>Short and sweet, when I doggy that one, she gotta go on her tiptoes *(partial)* | [🔍](https://genius.com/search?q=Central%20Cee%20Crypto%20Price) | [▶](https://www.youtube.com/watch?v=hY7EfulUj9A) | H |
-| 17 | **Benny the Butcher** | Bust A Brick Nick | 2022 | 🪙 | Before we talk paper, let's make a simple assessment<br>My little crypto investment was probably triple your necklace *(partial)* | [🔍](https://genius.com/search?q=Benny%20the%20Butcher%20Bust%20A%20Brick%20Nick) | [▶](https://www.youtube.com/watch?v=E8AHdd_YtRg) | H |
-| 18 | **Lil Yachty** *(on Rio Leyva's "Bitcoin")* | Bitcoin | 2022 | ₿ | Lost a couple million on Bitcoin, don't feel bad<br>Don't feel bad for me, I'm rich, I'm straight, I'm good, I'm always set *(partial)* | [🔍](https://genius.com/search?q=Rio%20Leyva%20Bitcoin%20Lil%20Yachty) | [▶](https://soundcloud.com/rioleyva/lil-yachty-bitcoin-prod-rio) | M |
-| 19 | **Takeoff** *(feat. Rich The Kid)* | Crypto | 2022 | 🪙 | She want the info<br>I wanna talk about crypto<br>I'm tryna leave that boy bloody<br>Like Bron when he threw the elbow *("crypto" doubles as slang)* | [🔍](https://genius.com/search?q=Takeoff%20Crypto%20Rich%20The%20Kid) | [▶](https://www.youtube.com/watch?v=EPQJHNXdJfM) | M |
-| 20 | **Latto** *(feat. 21 Savage)* | Wheelie | 2022 | 🪙 | Pay the rent and the car note, he invest in me like crypto *(partial)* | [🔍](https://genius.com/search?q=Latto%20Wheelie%2021%20Savage) | [▶](https://www.youtube.com/watch?v=ZM_ThhRXZ9k) | H |
-| 21 | **Tom MacDonald** *(feat. John Rich)* | End of the World | 2023 | 🪙 | They told us "Chase a dollar," then made everyone broke<br>I feel like cryptocurrency is probably our last financial hope<br>Soon enough, the government will leave your bank account froze<br>Judgment Day is comin', you can run or you can stand and fight | [🔍](https://genius.com/search?q=Tom%20MacDonald%20End%20of%20the%20World) | [▶](https://www.youtube.com/watch?v=Vk8J9l2HVvg) | H |
-| 22 | **billy woods** *(on Blockhead's "AAU Tournaments")* | AAU Tournaments | 2023 | 🪙 | For every Jack Harlow, it's a white boy who didn't make it<br>And works in crypto and intellectual property<br>You can't copy me *(partial)* | [🔍](https://genius.com/search?q=Blockhead%20AAU%20Tournaments%20billy%20woods) | [▶](https://blockheadnyc.bandcamp.com/track/aau-tournaments-ft-billy-woods-navy-blue) | M |
-| 23 | **Kendrick Lamar** | wacced out murals | 2024 | ₿ | People from my city could never entertain ol' boy<br>Promising big transaction and even Bitcoin<br>I'll never peace it up *(partial)* | [🔍](https://genius.com/search?q=Kendrick%20Lamar%20wacced%20out%20murals) | [▶](https://www.youtube.com/watch?v=YwUQ_5iV9pY) | H |
-| 24 | **Snoop Dogg** | Gifts | 2025 | ⛓ | All I hear is gifts, gifts, gifts, digital collectibles<br>What? Blockchain?<br>[…]<br>Shout out to TON / Telegram *(partial, non-consecutive)* | [🔍](https://genius.com/search?q=Snoop%20Dogg%20Gifts) | [▶](https://www.youtube.com/watch?v=sknGyx2vRg4) | M |
-| 25 | **Drake** | What Did I Miss? | 2025 | ₿ | What's the get-back for niggas? It's TBD<br>I look at this shit like a BTC<br>Could be down this week, then I'm up next week *(partial)* | [🔍](https://genius.com/search?q=Drake%20What%20Did%20I%20Miss) | [▶](https://www.youtube.com/watch?v=nKhb7JHpEQw) | H |
-| 26 | **Nas & DJ Premier** | GiT Ready | 2025 | Ξ ⛓ | Turn Ether to Etherium, y'all wanna bet?<br>I got a crypto key, it come with a password<br>Then I flipped that key to digital cash, word<br>[…]<br>I'm from the block with a chain, this the new blockchain *(partial)* | [🔍](https://genius.com/search?q=Nas%20DJ%20Premier%20GiT%20Ready) | [▶](https://www.youtube.com/watch?v=oQC97J_20d4) | H |
-| 27 | **Drake** | Dust | 2026 | ₿ | Ayy, I am, I am, I am<br>A BTC, crypto big timer<br>A corporate America hit survivor<br>Got a real big heart, I'm a fucked up guy though | [🔍](https://genius.com/search?q=Drake%20Dust%20Iceman) | [▶](https://www.youtube.com/watch?v=0DwEBemyJm0) | H |
-| 28 | **Baby Keem** | Ca$ino | 2026 | ◎ | Shawty a wifey, we hike up the hills<br>She got a man, so I hold like Solana *(partial — "hold" doubles as HODL)* | [🔍](https://genius.com/search?q=Baby%20Keem%20Casino) | [▶](https://www.youtube.com/watch?v=osdQCYqZHkY) | H |
+| 15 | **Central Cee** | Crypto Price | 2022 | 🪙 | But I'm in two minds, it goes up and down like the crypto price<br>Short and sweet, when I doggy that one, she gotta go on her tiptoes *(partial)* | [🔍](https://genius.com/search?q=Central%20Cee%20Crypto%20Price) | [▶](https://www.youtube.com/watch?v=hY7EfulUj9A) | H |
+| 16 | **Benny the Butcher** | Bust A Brick Nick | 2022 | 🪙 | Before we talk paper, let's make a simple assessment<br>My little crypto investment was probably triple your necklace *(partial)* | [🔍](https://genius.com/search?q=Benny%20the%20Butcher%20Bust%20A%20Brick%20Nick) | [▶](https://www.youtube.com/watch?v=E8AHdd_YtRg) | H |
+| 17 | **Lil Yachty** *(on Rio Leyva's "Bitcoin")* | Bitcoin | 2022 | ₿ | Lost a couple million on Bitcoin, don't feel bad<br>Don't feel bad for me, I'm rich, I'm straight, I'm good, I'm always set *(partial)* | [🔍](https://genius.com/search?q=Rio%20Leyva%20Bitcoin%20Lil%20Yachty) | [▶](https://soundcloud.com/rioleyva/lil-yachty-bitcoin-prod-rio) | M |
+| 18 | **Takeoff** *(feat. Rich The Kid)* | Crypto | 2022 | 🪙 | She want the info<br>I wanna talk about crypto<br>I'm tryna leave that boy bloody<br>Like Bron when he threw the elbow *("crypto" doubles as slang)* | [🔍](https://genius.com/search?q=Takeoff%20Crypto%20Rich%20The%20Kid) | [▶](https://www.youtube.com/watch?v=EPQJHNXdJfM) | M |
+| 19 | **Latto** *(feat. 21 Savage)* | Wheelie | 2022 | 🪙 | Pay the rent and the car note, he invest in me like crypto *(partial)* | [🔍](https://genius.com/search?q=Latto%20Wheelie%2021%20Savage) | [▶](https://www.youtube.com/watch?v=ZM_ThhRXZ9k) | H |
+| 20 | **Tom MacDonald** *(feat. John Rich)* | End of the World | 2023 | 🪙 | They told us "Chase a dollar," then made everyone broke<br>I feel like cryptocurrency is probably our last financial hope<br>Soon enough, the government will leave your bank account froze<br>Judgment Day is comin', you can run or you can stand and fight | [🔍](https://genius.com/search?q=Tom%20MacDonald%20End%20of%20the%20World) | [▶](https://www.youtube.com/watch?v=Vk8J9l2HVvg) | H |
+| 21 | **billy woods** *(on Blockhead's "AAU Tournaments")* | AAU Tournaments | 2023 | 🪙 | For every Jack Harlow, it's a white boy who didn't make it<br>And works in crypto and intellectual property<br>You can't copy me *(partial)* | [🔍](https://genius.com/search?q=Blockhead%20AAU%20Tournaments%20billy%20woods) | [▶](https://blockheadnyc.bandcamp.com/track/aau-tournaments-ft-billy-woods-navy-blue) | M |
+| 22 | **Kendrick Lamar** | wacced out murals | 2024 | ₿ | People from my city could never entertain ol' boy<br>Promising big transaction and even Bitcoin<br>I'll never peace it up *(partial)* | [🔍](https://genius.com/search?q=Kendrick%20Lamar%20wacced%20out%20murals) | [▶](https://www.youtube.com/watch?v=YwUQ_5iV9pY) | H |
+| 23 | **Snoop Dogg** | Gifts | 2025 | ⛓ | All I hear is gifts, gifts, gifts, digital collectibles<br>What? Blockchain?<br>[…]<br>Shout out to TON / Telegram *(partial, non-consecutive)* | [🔍](https://genius.com/search?q=Snoop%20Dogg%20Gifts) | [▶](https://www.youtube.com/watch?v=sknGyx2vRg4) | M |
+| 24 | **Drake** | What Did I Miss? | 2025 | ₿ | What's the get-back for niggas? It's TBD<br>I look at this shit like a BTC<br>Could be down this week, then I'm up next week *(partial)* | [🔍](https://genius.com/search?q=Drake%20What%20Did%20I%20Miss) | [▶](https://www.youtube.com/watch?v=nKhb7JHpEQw) | H |
+| 25 | **Nas & DJ Premier** | GiT Ready | 2025 | Ξ ⛓ | Turn Ether to Etherium, y'all wanna bet?<br>I got a crypto key, it come with a password<br>Then I flipped that key to digital cash, word<br>[…]<br>I'm from the block with a chain, this the new blockchain *(partial)* | [🔍](https://genius.com/search?q=Nas%20DJ%20Premier%20GiT%20Ready) | [▶](https://www.youtube.com/watch?v=oQC97J_20d4) | H |
+| 26 | **Drake** | Dust | 2026 | ₿ | Ayy, I am, I am, I am<br>A BTC, crypto big timer<br>A corporate America hit survivor<br>Got a real big heart, I'm a fucked up guy though | [🔍](https://genius.com/search?q=Drake%20Dust%20Iceman) | [▶](https://www.youtube.com/watch?v=0DwEBemyJm0) | H |
+| 27 | **Baby Keem** | Ca$ino | 2026 | ◎ | Shawty a wifey, we hike up the hills<br>She got a man, so I hold like Solana *(partial — "hold" doubles as HODL)* | [🔍](https://genius.com/search?q=Baby%20Keem%20Casino) | [▶](https://www.youtube.com/watch?v=osdQCYqZHkY) | H |
 
 ## 🪙 By coin
 
 | Coin / term | Count | Notable |
 |---|---|---|
 | ₿ **Bitcoin / BTC** | 12 | YTCracker, Action Bronson, Kendrick, Drake ×2 |
-| 🪙 **"crypto" / cryptocurrency** | 13 | Big Sean, Nas, Mach-Hommy, Latto, billy woods |
+| 🪙 **"crypto" / cryptocurrency** | 12 | Big Sean, Nas, Rick Ross, Latto, billy woods |
 | ⛓ **blockchain** | 5 | Money Man, Mick Jenkins, Nas & Premier |
 | 🧠 **Satoshi** | 2 | Gramatik, Lil Windex |
 | Ð **Dogecoin** | 1 | Big Sean (*Little While*) |
@@ -100,12 +99,11 @@ The rule: **if a lyric is in this repo, its exact wording was confirmed against 
 Surfaced during research but **failed the verification bar** — listed for transparency. Help confirm or debunk via an [issue](../../issues).
 
 <details>
-<summary><b>Show unverified leads (3)</b></summary>
+<summary><b>Show unverified leads (2)</b></summary>
 
 | Artist | Song | Year | Claimed | Why it's not in the table |
 |---|---|---|---|---|
 | G-Eazy | Down | 2017 | "loyal bitches get crypto" | Single source (Vice); couldn't pin the exact track version or audio. |
-| Mach-Hommy | Blockchain *(Pray For Haiti)* | 2021 | crypto-titled track | No verbatim crypto line could be sourced — strong candidate for a manual listen. |
 | Juicy J | Coinbase *(Crypto Business)* | 2022 | Coinbase | No verbatim lyric sourceable. |
 
 </details>
@@ -121,7 +119,7 @@ Plenty of artists are deep in crypto as **investors or businesspeople** but have
 <details>
 <summary><b>Methodology & honest caveats</b></summary>
 
-- **Verified-only.** Every lyric was confirmed verbatim against a fetchable, citable source before it made the table. If a line couldn't be sourced, it didn't ship — which is why the count is ~28 and not padded into the hundreds.
+- **Verified-only.** Every lyric was confirmed verbatim against a fetchable, citable source before it made the table. If a line couldn't be sourced, it didn't ship — which is why the count is ~27 and not padded into the hundreds.
 - **Genius links go to a Genius *search* query**, not a direct lyric-page URL. Genius (and AZLyrics, lyrics.com, songlyrics.com) block automated access — even `curl` gets a 403 — so direct page slugs couldn't be programmatically validated. A search link is guaranteed to resolve and lands you on the right page.
 - **YouTube links** were pulled from search results; most are official audio/video, a few are the best available upload. Wrong link? [Open an issue](../../issues).
 - **Confidence:** `H` = confirmed on a strong/primary source. `M` = confirmed via a single secondary source or consistent search snippets.
